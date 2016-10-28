@@ -1,0 +1,264 @@
+申请一个GitHub账号，网址https://github.com/
+英文不好的同学，根据http://www.jointd.com/?p=2810创建
+下面是三个学习地址
+http://www.w3cfuns.com/
+http://www.w3school.com.cn/
+http://www.jeffjade.com/2016/03/30/104-front-end-tutorial/
+web前端领域的知识
+The Web Front End Stack
+•	Browser
+ o	Internet Explorer
+ o	Chrome
+ o	Firefox
+ o	Safari
+ o	Opera
+ o	Edge
+ o	Netscape
+•	Protocol
+ o	HTTP/1.1
+  	URI
+  	Session
+  	Authentication
+  	Request
+  	Response
+ o	HTTP/2
+  	Compression
+  	Minification
+  	Server Push
+ o	WebSocket
+•	The 3 Pillars
+ o	HTML (HyperText Markup Language)
+ o	CSS (Cascading Style Sheets)
+ o	JavaScript
+•	Standards
+ o	W3C
+  	HTML
+  	CSS
+  	XHTML
+  	XML
+•	Core Concepts
+ o	HTML
+  	DOM
+  	Element
+  	Attribute
+ o	JavaScript
+  	Prototype
+  	Scope
+  	Closure
+  	JSON (JavaSript Object Notation)
+  	AJAX (Asynchronous JavaScript and XML)
+ o	CSS
+  	Selector
+  	Priority
+  	Specificity
+  	Box Model
+•	Rendering Engine
+ o	Trident (IE)
+ o	Blink / prev. WebKit (Chrome)
+ o	Gecko (Firefox)
+ o	WebKit (Safari)
+ o	Blink / prev. Presto (Opera)
+ o	EdgeHTML (Edge)
+•	JavaScript Engine
+ o	JScript (IE8- / ASP)
+ o	Chakra (IE9+ / Edge)
+ o	V8 (Chrome / Opera / Nodejs / MongoDB) [GitHub]
+ o	SpiderMonkey (Firefox)
+ o	Nitro (Safari)
+•	Runtime
+ o	Cookie
+ o	Local Cache
+ o	Session Storage
+ o	Local Storage
+ o	Components
+  	Extensions
+  	Plugins
+ o	Resources
+  	Images
+  	Icons
+  	Fonts
+  	Audios
+  	Videos
+•	Editors
+ o	Sublime Text
+ o	WebStorm
+ o	Atom [GitHub]
+ o	Vim
+ o	Emacs
+ o	Brackets [GitHub]
+ o	Light Table [GitHub]
+ o	Visual Studio
+ o	Visual Studio Code [GitHub]
+ o	Dreamweaver ;-)
+ o	FrontPage / SharePoint Designer ;-)
+•	Build Tasks
+ o	Minification
+ o	Compilation
+ o	Concatenation
+ o	Uglification
+ o	Image Optimization
+ o	Unit Testing
+•	Build Tools
+ o	Grunt [GitHub]
+ o	Gulp [GitHub]
+ o	Brunch [GitHub]
+ o	Yeoman
+ o	Broccoli [GitHub]
+•	Debug
+ o	Developer Tools
+ o	Firebug [GitHub]
+•	Base Tools
+ o	Node.js [GitHub]
+ o	Phantom.js [GitHub]
+ o	SpiderMonkey
+•	Quality
+ o	JSLint [GitHub]
+ o	JSHint [GitHub]
+ o	jscs [GitHub]
+ o	Closure Linter
+•	Package
+ o	npm [GitHub]
+ o	Bower [GitHub]
+•	Test
+ o	Tools
+  	QUnit [GitHub]
+  	Jasmine [GitHub]
+  	Mocha [GitHub]
+  	Selenium [GitHub]
+  	WebDriverIO [GitHub]
+  	Protractor
+  	Chai [GitHub]
+  	Sinon.JS [GitHub]
+  	Karma [GitHub]
+  	nodeunit [GitHub]
+  	tape [GitHub]
+  	nightmare [GitHub]
+ o	Composite
+  	Sauce Labs
+  	Browser Stack
+  	Browser Shots
+  	Browserling
+  	Browser Sandbox
+  	Cross Browser Testing
+  	Browsera
+  	SortSite
+•	Frameworks / Libraries
+ o	JavaScript base library
+  	jQuery [GitHub]
+  	Prototype [GitHub]
+  	Zepto [GitHub]
+  	MooTool [GitHub]
+ o	Modular
+  	ES6 Module
+  	CommonJS
+  	webpack [GitHub]
+  	browserify [GitHub]
+  	AMD
+  	RequireJS [GitHub]
+  	UMD
+  	umd [GitHub]
+ o	JavaScript Framework
+  	AngularJS [GitHub]
+  	Backbone [GitHub]
+  	Knockout [GitHub]
+  	Ember [GitHub]
+  	React [GitHub]
+  	polymer [GitHub]
+  	Deft.js [GitHub]
+  	Vue [GitHub]
+  	Riot [GitHub]
+ o	UI framework
+  	Bootstrap [GitHub]
+  	Semantic UI [GitHub]
+  	Foundation [GitHub]
+  	Material UI [GitHub]
+  	WinJS [GitHub]
+  	Pure [GitHub]
+  	Amaze UI [GitHub]
+ o	WebSocket
+  	Socket.io [GitHub]
+  	web-socket-js [GitHub]
+ o	Data Visualization
+  	D3 [GitHub]
+  	Echarts [GitHub]
+  	HighCharts [GitHub]
+  	Vis.js [GitHub]
+  	Flot [GitHub]
+ o	WebGL
+  	Three.js [GitHub]
+  	Babylon.js [GitHub]
+  	Pixi.js [GitHub]
+ o	CSS3 Animation
+  	Animate.css [GitHub]
+  	bounce.js [GitHub]
+  	Effeckt.css [GitHub]
+  	move.js [GitHub]
+ o	Flow Controller
+  	ES6
+  	Promise
+  	Generator
+  	ES7
+  	yield
+  	await
+  	async [GitHub]
+  	co [GitHub]
+  	Promise
+  	Bluebird [GitHub]
+  	q [GitHub]
+  	when.js [GitHub]
+ o	Functional
+  	bacon.js [GitHub]
+  	immutable.js [GitHub]
+  	ramda [GitHub]
+  	underscore.js [GitHub]
+  	lodash [GitHub]
+  	ReactiveX [GitHub]
+ o	Mobile UI
+  	jQuery Mobile [GitHub]
+  	Jo [GitHub]
+  	Dojo Mobile
+  	Lungo [GitHub]
+•	CSS Pre-processors
+ o	LESS
+  	LESS [GitHub]
+  	Hat [GitHub]
+ o	Sass(SCSS)
+  	Compass [GitHub]
+  	Bourbon [GitHub]
+  	Gumby [GitHub]
+ o	Stylus
+  	nib [GitHub]
+•	Future Standards
+ o	babel [GitHub]
+•	Template
+ o	Handlebars [GitHub]
+ o	Haml [GitHub]
+ o	Slim [GitHub]
+ o	Jade [GitHub]
+ o	Ejs
+ o	Spacebars
+ o	mustache [GitHub]
+•	Modernisation
+ o	Normalize [GitHub]
+ o	Reset
+•	Best Practices
+ o	SEO
+ o	Responsiveness
+ o	CDN
+•	Security
+ o	Sandbox
+ o	XSS
+ o	CORS
+•	Intermediate Languages
+ o	CoffeeScript [GitHub]
+ o	TypeScript [GitHub]
+ o	ClojureScript [GitHub]
+ o	JSX (Facebook)
+•	Mobile Application Development
+ o	PhoneGap / Cordova [GitHub]
+ o	MUI [GitHub]
+ o	React Native [GitHub]
+ o	Ionic [GitHub]
+•	Desktop Application Development
+ o	Electron [GitHub]
+ o	NW.js [GitHub]
